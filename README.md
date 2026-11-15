@@ -1,3 +1,3 @@
-https://github.com/ezeugomn-speakwriteai/AI-Workspace-App/new/main](https://github.com/ezeugomn-speakwriteai/AI-Workspace-App/new/main)
+[![Create new file](https://img.shields.io/badge/GitHub-Create%20New%20File-blue?style=for-the-badge&logo=github)](https://github.com/ezeugomn-speakwriteai/AI-Workspace-App/new/main)
 
-A complete SI Workspace for everyone
+A complete AI Workspace for everyone
